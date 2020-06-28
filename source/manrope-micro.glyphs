@@ -1,8 +1,7 @@
 {
 .appVersion = "1340";
 DisplayStrings = (
-"0123456789",
-"8"
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 );
 classes = (
 {
@@ -8330,7 +8329,7 @@ unicode = 1E9E;
 {
 color = 2;
 glyphname = T;
-lastChange = "2020-06-22 16:24:24 +0000";
+lastChange = "2020-06-28 22:01:32 +0000";
 layers = (
 {
 layerId = "CAA188E2-8C62-414B-93AE-B576BEB044DB";
@@ -8361,17 +8360,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"474 1089 LINE",
-"514 1216 LINE",
-"402 1186 LINE",
-"20 1186 LINE",
-"20 1440 LINE",
-"1200 1440 LINE",
-"1200 1186 LINE",
-"818 1186 LINE",
-"706 1216 LINE",
-"746 1089 LINE",
 "746 0 LINE",
+"746 1089 LINE",
+"706 1216 LINE",
+"818 1186 LINE",
+"1200 1186 LINE",
+"1200 1440 LINE",
+"20 1440 LINE",
+"20 1186 LINE",
+"402 1186 LINE",
+"514 1216 LINE",
+"474 1089 LINE",
 "474 0 LINE"
 );
 }
